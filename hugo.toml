@@ -73,14 +73,14 @@ enabled = true
 widths = [800, 1600, 2400]
 
 [params.comments]
-enabled = false
+enabled = true
 provider = "giscus"
 
 [params.comments.giscus]
-repo = "name12345678987/blog-comments"
-repoID = ""
-category = "General"
-categoryID = ""
+repo = "name12345678987/name12345678987.github.io"
+repoID = "R_kgDOSc9CaQ"
+category = "Announcements"
+categoryID = "DIC_kwDOSc9Cac4C9Bw0"
 mapping = "pathname"
 lightTheme = "light"
 darkTheme = "dark"
