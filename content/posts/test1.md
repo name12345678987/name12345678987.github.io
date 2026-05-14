@@ -1,11 +1,11 @@
 +++
-title = "这是一个测试文章"
-date = "2026-05-14T12:02:20+08:00"
-slug = "test"
+title = "Test1"
+date = "2026-05-14T14:24:58+08:00"
+slug = "test1"
 description = "这里填写文章摘要。"
 categories = ["技术"]
 tags = ["Hugo"]
-draft = false
+draft = true
 toc = true
 comments = true
 math = false

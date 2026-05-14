@@ -2,7 +2,7 @@ baseURL = "https://name12345678987.github.io/"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh"
 hasCJKLanguage = true
-title = "Jaso技术博客"
+title = "山风的技术博客"
 theme = "stack"
 enableRobotsTXT = true
 
@@ -14,7 +14,7 @@ posts = "/p/:slug/"
 page = "/:slug/"
 
 [author]
-name = "你的名字"
+name = "山风"
 homepage = "https://name12345678987.github.io/"
 
 [params]
