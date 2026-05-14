@@ -1,0 +1,144 @@
+baseURL = "https://name12345678987.github.io/"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh"
+hasCJKLanguage = true
+title = "Jaso技术博客"
+theme = "stack"
+enableRobotsTXT = true
+
+[pagination]
+pagerSize = 5
+
+[permalinks]
+posts = "/p/:slug/"
+page = "/:slug/"
+
+[author]
+name = "你的名字"
+homepage = "https://name12345678987.github.io/"
+
+[params]
+description = "这是我的个人技术博客，分享 AI、网安、教程等内容。"
+mainSections = ["posts"]
+rssFullContent = true
+favicon = "img/favicon.png"
+
+[params.dateFormat]
+published = "2006年1月2日"
+lastUpdated = "2006年1月2日 15:04"
+
+[params.sidebar]
+compact = false
+emoji = "✍️"
+subtitle = "分享 AI、网安、教程与技术实践。"
+avatar = "img/avatar.png"
+
+[params.footer]
+since = 2026
+customText = ""
+
+[params.article]
+headingAnchor = true
+math = false
+toc = true
+readingTime = true
+
+[params.article.license]
+enabled = true
+default = "Licensed under CC BY-NC-SA 4.0"
+
+[params.widgets]
+homepage = [
+  { type = "search" },
+  { type = "archives", params = { limit = 5 } },
+  { type = "categories", params = { limit = 10 } },
+  { type = "tag-cloud", params = { limit = 10 } },
+]
+page = [
+  { type = "toc" },
+]
+
+[params.colorScheme]
+toggle = true
+default = "auto"
+
+[params.imageProcessing]
+autoOrient = false
+
+[params.imageProcessing.thumbnail]
+enabled = true
+
+[params.imageProcessing.content]
+enabled = true
+widths = [800, 1600, 2400]
+
+[params.comments]
+enabled = false
+provider = "giscus"
+
+[params.comments.giscus]
+repo = "name12345678987/blog-comments"
+repoID = ""
+category = "General"
+categoryID = ""
+mapping = "pathname"
+lightTheme = "light"
+darkTheme = "dark"
+reactionsEnabled = 1
+emitMetadata = 0
+inputPosition = "top"
+lang = "zh-CN"
+strict = 0
+loading = "lazy"
+
+[[menu.main]]
+name = "首页"
+url = "/"
+weight = 10
+identifier = "home"
+
+[menu.main.params]
+icon = "home"
+
+[[menu.main]]
+name = "归档"
+url = "/archives/"
+weight = 20
+identifier = "archives"
+
+[menu.main.params]
+icon = "archives"
+
+[[menu.main]]
+name = "搜索"
+url = "/search/"
+weight = 30
+identifier = "search"
+
+[menu.main.params]
+icon = "search"
+
+[[menu.main]]
+name = "关于"
+url = "/about/"
+weight = 40
+identifier = "about"
+
+[menu.main.params]
+icon = "user"
+
+[[menu.social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/name12345678987"
+weight = 10
+
+[menu.social.params]
+icon = "brand-github"
+newTab = true
+
+[markup]
+
+[markup.highlight]
+noClasses = false
+lineNos = true
