@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>技术 on Jaso技术博客</title>
+        <link>https://name12345678987.github.io/categories/%E6%8A%80%E6%9C%AF/</link>
+        <description>Recent content in 技术 on Jaso技术博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Wed, 13 May 2026 17:30:53 +0800</lastBuildDate><atom:link href="https://name12345678987.github.io/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>第一篇文章</title>
+            <link>https://name12345678987.github.io/p/first-post/</link>
+            <pubDate>Wed, 13 May 2026 17:30:53 +0800</pubDate>
+            <guid>https://name12345678987.github.io/p/first-post/</guid>
+            <description>&lt;p&gt;这是博客搭建后的第一篇测试文章。&lt;/p&gt;&#xA;&lt;p&gt;后续可以把这里替换成正式内容，或者使用 page bundle 的方式为文章添加封面图和配图。&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>
