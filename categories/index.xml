@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on Jaso技术博客</title>
+        <title>Categories on 山风的技术博客</title>
         <link>https://name12345678987.github.io/categories/</link>
-        <description>Recent content in Categories on Jaso技术博客</description>
+        <description>Recent content in Categories on 山风的技术博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Wed, 13 May 2026 17:30:53 +0800</lastBuildDate><atom:link href="https://name12345678987.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 14 May 2026 12:02:20 +0800</lastBuildDate><atom:link href="https://name12345678987.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>技术</title>
             <link>https://name12345678987.github.io/categories/%E6%8A%80%E6%9C%AF/</link>
-            <pubDate>Wed, 13 May 2026 17:30:53 +0800</pubDate>
+            <pubDate>Thu, 14 May 2026 12:02:20 +0800</pubDate>
             <guid>https://name12345678987.github.io/categories/%E6%8A%80%E6%9C%AF/</guid>
             <description></description>
         </item></channel>
